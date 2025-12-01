@@ -1,0 +1,20 @@
+{
+    "_id": "angebot_img2_entry",
+    "_type": "MediaFile",
+    "_index": "a3",
+    "title": "Angebot-Image-2",
+    "location": "/angebot-2.jpg",
+    "previewUrl": "",
+    "extension": ".jpg",
+    "size": 0,
+    "hash": "",
+    "preview": "",
+    "averageColor": "#d4cec8",
+    "focus": {
+        "x": 0.5,
+        "y": 0.5
+    },
+    "thumbHash": "",
+    "width": 1920,
+    "height": 1280
+}

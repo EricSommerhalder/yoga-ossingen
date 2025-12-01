@@ -1,0 +1,39 @@
+.scrollReveal {
+    opacity: 0;
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.scrollReveal.visible {
+    opacity: 1;
+    transform: translate(0, 0);
+}
+
+/* Direction variants */
+.scrollReveal.up {
+    transform: translateY(30px);
+}
+
+.scrollReveal.down {
+    transform: translateY(-30px);
+}
+
+.scrollReveal.left {
+    transform: translateX(30px);
+}
+
+.scrollReveal.right {
+    transform: translateX(-30px);
+}
+
+.scrollReveal.fade {
+    transform: none;
+}
+
+/* Visible state resets transform */
+.scrollReveal.visible.up,
+.scrollReveal.visible.down,
+.scrollReveal.visible.left,
+.scrollReveal.visible.right,
+.scrollReveal.visible.fade {
+    transform: translate(0, 0);
+}

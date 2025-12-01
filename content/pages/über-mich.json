@@ -1,0 +1,116 @@
+{
+  "_id": "36FlL3T0WLuqwpfHm5ctq5jo1nP",
+  "_type": "AboutPage",
+  "_index": "a2",
+  "_seeded": "/ueber-mich.json",
+  "title": "Über mich",
+  "introText": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Schon immer hatte ich grosse Freude an der Bewegung und am Körper. Daher arbeite ich, seit ich 16-jährig bin, im Spital, zuerst in der Pflege, später als Ernährungsberaterin. Gesundheit interessiert mich sehr und wie ich anderen Menschen zu Gesundheit verhelfen kann."
+        }
+      ]
+    }
+  ],
+  "image1": {
+    "_id": "35LbZoYHn0EyLw2ahH7leWAGOYI",
+    "_type": "image",
+    "_entry": "35LbZpcnfYheDyf2EsKCztYmOHS"
+  },
+  "image1Alt": "Placeholder Image 1",
+  "philosophyText": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Ein etwas alternativerer Weg zur Gesundheit habe ich im Yoga gefunden, der mittlerweile eine grosse Leidenschaft geworden ist. Ich schätze am Yoga nicht nur die wohltuenden Körperübungen, sondern auch die erdenden und Ruhe fördernden Atemtechniken sowie die entspannenden Meditationen. Die Yoga-Philosophie insgesamt fasziniert mich, denn sie hat trotz ihres stolzen Alters von über 2000 Jahren nicht in ihrer Aktualität eingebüsst."
+        }
+      ]
+    }
+  ],
+  "image2": {
+    "_id": "35LbtbufFnegBdGO6AOuH88KbPN",
+    "_type": "image",
+    "_entry": "35LbtbdSqrmdkhPmAHcXVaE3iMm"
+  },
+  "image2Alt": "Placeholder Image 2",
+  "educationText": [
+    {
+      "_type": "heading",
+      "level": 3,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Ausbildung"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "2016-2020: dipl. Yogalehrerin YCH (Yoga Schweiz) an der Lotos in Basel und Zürich "
+        }
+      ]
+    },
+    {
+      "_type": "heading",
+      "level": 3,
+      "content": [
+        {
+          "_type": "text",
+          "text": "Weiterbildungen"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "2025: Mindfulness-based compassionate living (MBCL) mit Frits Koster, Zürich"
+        },
+        {
+          "_type": "hardBreak"
+        },
+        {
+          "_type": "text",
+          "text": "2022: Hormon-Yoga mit Tanja Forcelli, Zürich"
+        },
+        {
+          "_type": "hardBreak"
+        },
+        {
+          "_type": "text",
+          "text": "2021: Hands on assists mit Simone Zweifel, Luzern"
+        },
+        {
+          "_type": "hardBreak"
+        },
+        {
+          "_type": "text",
+          "text": "2021: Yin Yoga mit Barbara Burkhardt, Zürich"
+        },
+        {
+          "_type": "hardBreak"
+        },
+        {
+          "_type": "text",
+          "text": "2018: Yoga und Gefühle mit Angelika und R. Sriram, Zürich"
+        },
+        {
+          "_type": "hardBreak"
+        },
+        {
+          "_type": "text",
+          "text": "2013: Mindfulness-based stress reduction (MBSR) mit Roman von Wartburg, Bern "
+        }
+      ]
+    }
+  ]
+}

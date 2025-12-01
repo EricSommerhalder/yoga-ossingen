@@ -1,0 +1,37 @@
+{
+  "_id": "36FgMnS9MvxuE4SiPAADMqZbc54",
+  "_type": "Navigation",
+  "_index": "a0",
+  "_seeded": "/main.json",
+  "title": "Main Navigation",
+  "items": [
+    {
+      "_id": "36FgT8dndCeRNbUCrreB3U8Vgaq",
+      "_index": "a0",
+      "_type": "NavigationItem",
+      "label": "Home",
+      "link": "/"
+    },
+    {
+      "_id": "36FgUHpScJWyO7jmZrM59Z2vO4K",
+      "_index": "a1",
+      "_type": "NavigationItem",
+      "label": "Yoga & Angebot",
+      "link": "/angebot"
+    },
+    {
+      "_id": "36FgY8p84yPCzZVicXsEDuzWuFY",
+      "_index": "a2",
+      "_type": "NavigationItem",
+      "label": "Über mich",
+      "link": "/ueber-mich"
+    },
+    {
+      "_id": "36Fgd8nbhR3o9yWIS0IY1tpVUAd",
+      "_index": "a3",
+      "_type": "NavigationItem",
+      "label": "Kontakt",
+      "link": "/kontakt"
+    }
+  ]
+}

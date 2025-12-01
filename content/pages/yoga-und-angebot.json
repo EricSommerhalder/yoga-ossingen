@@ -1,0 +1,116 @@
+{
+  "_id": "36FHjOn21Kz6PmlwkJCoxtqZ9DY",
+  "_type": "AngebotPage",
+  "_index": "a1",
+  "_seeded": "/angebot.json",
+  "title": "Yoga und Angebot",
+  "introTitle": "Yoga und Angebot",
+  "introText": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Die Ursprünge des Yoga reichen zurück bis ins alte Indien. Um 500 v. Chr. wurde die Lehre des Yoga erstmals als spiritueller Weg festgehalten. Es ist der Weg, der zum Kern des eigenen Herzens führt, zur Erfahrung dessen, was uns im Innersten ausmacht. Das Sanskrit-Wort \"Yoga\" steht für eben diese tiefe Verbindung – mit sich selbst und der Welt."
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Eine andere schöne Übersetzung von Yoga lautet:"
+        },
+        {
+          "_type": "hardBreak"
+        },
+        {
+          "_type": "text",
+          "text": "«Yoga ist die Stille der Bewegungen des Geistes.»"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Mit Bewegungen des Geistes sind unsere Gedanken und Emotionen gemeint. Wer schon je den Versuch unternommen hat, die eigenen Gedanken und Emotionen zur Ruhe zu bringen, kann die Schwierigkeit dieses Unterfangens, bezeugen."
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Wir sagen heute: «Ich mache Yoga», und meinen damit die Körperübungen. Aber im Grunde ist Yoga eine philosophische Lehre, einen Weg zu wahrer Lebenskunst. Vermutungen legen nahe, dass eine Vielzahl an Körperhaltungen praktiziert wurden, um den Körper gesund zu erhalten und zu kräftigen."
+        }
+      ]
+    }
+  ],
+  "offerTitle": "Angebot",
+  "offerText": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Erleben Sie eine Yoga-Praxis, die sich harmonisch an die Energie der Gruppe anpasst. Mit den klaren Strukturen des traditionellen Hatha-Yoga als Fundament, integriere ich dynamische Vinyasa-Elemente, die den Fluss und die Bewegung betonen. Im Mittelpunkt steht dabei immer die Balance zwischen kraftvollen Haltungen und dem bewussten Loslassen. Den Abschluss bilden Haltungen aus dem Yin-Yoga, die Ihnen eine tiefe Entspannung schenken. Geführte Meditationen und beruhigende Atemübungen aus dem Yoga unterstützen uns im Prozess des Loslassens und führen zu mehr Ausgeglichenheit und Gelassenheit im Alltag. Wir üben mit Achtsamkeit, verfeinern die Körperwahrnehmung und werden so auf sanfte Weise zu Experten für uns selbst."
+        }
+      ]
+    }
+  ],
+  "scheduleTitle": "Zeiten und Kosten",
+  "scheduleText": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Die Yogalektionen finden jeweils am Mittwochabend statt, ausser in den Schulferien (von Ossingen)."
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "19.30 Uhr – 19.45 Uhr"
+        },
+        {
+          "_type": "hardBreak"
+        },
+        {
+          "_type": "text",
+          "text": "20.00 Uhr – 21.15 Uhr"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Kosten pro Yogalektion von 75 min: CHF 29.00."
+        }
+      ]
+    }
+  ],
+  "image1": {
+    "_id": "36FdPMzlbKdl58pPRPEUrMi4WC9",
+    "_type": "image",
+    "_entry": "36FdPJoDuA2AsB8ydqbbCsb4L4g"
+  },
+  "image1Alt": "Yoga Instruktorin in entspannter Pose",
+  "image2": {
+    "_id": "36FdQXHxlTw4caQybZTL6yLRudC",
+    "_type": "image",
+    "_entry": "36FdQVSlgB1bwi6cffk9Tjq5iA8"
+  },
+  "image2Alt": "Yoga Instruktorin in Balancepose",
+  "ctaButton": "Jetzt Kontakt aufnehmen",
+  "ctaButtonLink": "/kontakt"
+}

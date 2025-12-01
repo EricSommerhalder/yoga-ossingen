@@ -1,0 +1,57 @@
+{
+  "_id": "35LYmbASBzfv1SBYYwEcV1Ml905",
+  "_type": "HomePage",
+  "_index": "a0",
+  "_seeded": "/index.json",
+  "title": "Yoga Ossingen",
+  "subtitle": "Der Weg zur Ruhe beginnt dort, wo Sie sich selbst begegnen.",
+  "textContent": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Finden Sie die Ruhe, die Sie im Alltag suchen – nicht im Aussen, sondern in sich selbst."
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Meine Yogalektionen laden Sie ein, die tiefe Verbindung zwischen Körper, Atem und Geist zu spüren. Erleben Sie eine harmonische Mischung aus belebenden, kraftvollen Haltungen sowie sanften Übungen, die Sie Schritt für Schritt zur inneren Ruhe und in die Stille führen."
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Denn wie Rumi schon wusste:"
+        },
+        {
+          "_type": "hardBreak"
+        },
+        {
+          "_type": "text",
+          "text": "„Rein im Herzen gehen wir durch die Welt. Bezaubert, von allem, was uns umgibt. Immer suchen wir und vergessen, dass wir schon sind, was wir suchen.“"
+        }
+      ]
+    }
+  ],
+  "headerImage": {
+    "_id": "35LbZoYHn0EyLw2ahH7leWAGOYI",
+    "_type": "image",
+    "_entry": "35LbZpcnfYheDyf2EsKCztYmOHS"
+  },
+  "headerImageAlt": "Wunderschöne Aussicht in Ossingen",
+  "actionButton": "Kontakt",
+  "profileImage": {
+    "_id": "35LbtbufFnegBdGO6AOuH88KbPN",
+    "_type": "image",
+    "_entry": "35LbtbdSqrmdkhPmAHcXVaE3iMm"
+  },
+  "profileImageAlt": "Ihre Instruktorin in Aktion"
+}
