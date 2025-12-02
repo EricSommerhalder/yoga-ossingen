@@ -161,7 +161,7 @@ export const cms = createCMS({
     // Point to your local website
     development: 'http://localhost:3000',
     // The production URL of your website
-    production: 'https://yoga-ossingen.ch'
+    production: 'https://yoga-ossingen.vercel.app'
   },
 
   // Enable live previews after adding <cms.previews widget /> to your layout
