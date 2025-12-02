@@ -54,6 +54,33 @@ export const AboutPage = Config.type('AboutPage', {
   }
 })
 
+export const KontaktPage = Config.type('KontaktPage', {
+  fields: {
+    title: Field.text('Title'),
+    addressTitle: Field.text('Address Section Title'),
+    addressText: Field.richText('Address Text'),
+    googleMapsUrl: Field.text('Google Maps Embed URL'),
+    image: Field.image('Image'),
+    imageAlt: Field.text('Image Alt'),
+    contactFormTitle: Field.text('Contact Form Title'),
+    recipientEmail: Field.text('Recipient Email Address'),
+    // Form field labels
+    nameLabel: Field.text('Name Field Label'),
+    emailLabel: Field.text('Email Field Label'),
+    phoneLabel: Field.text('Phone Field Label'),
+    messageLabel: Field.text('Message Field Label'),
+    // Form field placeholders
+    namePlaceholder: Field.text('Name Field Placeholder'),
+    emailPlaceholder: Field.text('Email Field Placeholder'),
+    phonePlaceholder: Field.text('Phone Field Placeholder'),
+    messagePlaceholder: Field.text('Message Field Placeholder'),
+    // Submit button and messages
+    submitButtonText: Field.text('Submit Button Text'),
+    successMessage: Field.text('Success Message'),
+    errorMessage: Field.text('Error Message'),
+  }
+})
+
 export const NavigationItem = Config.type('NavigationItem', {
   fields: {
     label: Field.text('Label'),
@@ -80,6 +107,7 @@ export const cms = createCMS({
     HomePage,
     AngebotPage,
     AboutPage,
+    KontaktPage,
     Navigation,
     NavigationItem
   },
@@ -106,10 +134,10 @@ export const cms = createCMS({
               type: AboutPage,
               fields: { title: 'Über mich' }
             }),
-            /*'kontakt': Config.page({
-                type: Page,
-                fields: {title: 'Kontakt'}
-            })*/
+            'kontakt': Config.page({
+              type: KontaktPage,
+              fields: { title: 'Kontakt' }
+            })
 
           }
         }),

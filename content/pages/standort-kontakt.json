@@ -1,0 +1,64 @@
+{
+  "_id": "36HDKqiE8Vl5fFfhlyiE22gBvDO",
+  "_type": "KontaktPage",
+  "_index": "a3",
+  "_seeded": "/kontakt.json",
+  "title": "Standort & Kontakt",
+  "addressTitle": "Standort & Kontakt",
+  "addressText": [
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Die Yogalektionen finden in den stimmungsvollen Räumlichkeiten des Sekundarschulhauses Ossingen statt. Die Adresse lautet:"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Orenbergstrasse 14 (im obersten Stockwerk)"
+        },
+        {
+          "_type": "hardBreak"
+        },
+        {
+          "_type": "text",
+          "text": "8475 Ossingen"
+        }
+      ]
+    },
+    {
+      "_type": "paragraph",
+      "content": [
+        {
+          "_type": "text",
+          "text": "Parkplätze sind vorhanden"
+        }
+      ]
+    }
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2694.3!2d8.6891!3d47.6089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479a9b0b0b0b0b0b%3A0x0!2sOrenbergstrasse%2014%2C%208475%20Ossingen%2C%20Switzerland!5e0!3m2!1sen!2sch!4v1733115000000!5m2!1sen!2sch",
+  "image": {
+    "_id": "36IJTI2oEHKgC1QyVFQ7g3OlBMW",
+    "_type": "image",
+    "_entry": "36IJTDAEJML07102dEUbp0x8m0M"
+  },
+  "imageAlt": "Wunderschöne Atmosphäre in Ossingen",
+  "contactFormTitle": "Kontakt",
+  "recipientEmail": "eric@sommerhalder-websolutions.ch",
+  "nameLabel": "Name",
+  "emailLabel": "Email",
+  "phoneLabel": "Telefonnummer",
+  "messageLabel": "Nachricht",
+  "namePlaceholder": "Ihr Name",
+  "emailPlaceholder": "ihre.email@beispiel.ch",
+  "phonePlaceholder": "+41 79 123 45 67",
+  "messagePlaceholder": "Ihre Nachricht an uns...",
+  "submitButtonText": "Absenden",
+  "successMessage": "Vielen Dank für Ihre Nachricht! Wir werden uns so bald wie möglich bei Ihnen melden.",
+  "errorMessage": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut oder kontaktieren Sie uns direkt per E-Mail."
+}

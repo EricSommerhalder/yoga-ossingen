@@ -16,11 +16,11 @@
     }
   ],
   "image1": {
-    "_id": "35LbZoYHn0EyLw2ahH7leWAGOYI",
+    "_id": "36IIraEJVs2k055Oj1aka7LYqaB",
     "_type": "image",
-    "_entry": "35LbZpcnfYheDyf2EsKCztYmOHS"
+    "_entry": "36IIrUTHYMjDm2QpoRgwiHMN5QH"
   },
-  "image1Alt": "Placeholder Image 1",
+  "image1Alt": "Yoga Instruktorin",
   "philosophyText": [
     {
       "_type": "paragraph",
@@ -33,11 +33,11 @@
     }
   ],
   "image2": {
-    "_id": "35LbtbufFnegBdGO6AOuH88KbPN",
+    "_id": "36IIu0Cte4f3SiXTjt7qQkLPscE",
     "_type": "image",
-    "_entry": "35LbtbdSqrmdkhPmAHcXVaE3iMm"
+    "_entry": "36IIu3RycCE5MuYjwKxI7FmqgQU"
   },
-  "image2Alt": "Placeholder Image 2",
+  "image2Alt": "Yoga Praxis",
   "educationText": [
     {
       "_type": "heading",
@@ -45,7 +45,12 @@
       "content": [
         {
           "_type": "text",
-          "text": "Ausbildung"
+          "text": "Ausbildung",
+          "marks": [
+            {
+              "_type": "bold"
+            }
+          ]
         }
       ]
     },
@@ -54,7 +59,7 @@
       "content": [
         {
           "_type": "text",
-          "text": "2016-2020: dipl. Yogalehrerin YCH (Yoga Schweiz) an der Lotos in Basel und Zürich "
+          "text": "2016-2020: dipl. Yogalehrerin YCH (Yoga Schweiz) an der Lotos in Basel und Zürich"
         }
       ]
     },
@@ -64,7 +69,12 @@
       "content": [
         {
           "_type": "text",
-          "text": "Weiterbildungen"
+          "text": "Weiterbildungen",
+          "marks": [
+            {
+              "_type": "bold"
+            }
+          ]
         }
       ]
     },
@@ -108,7 +118,7 @@
         },
         {
           "_type": "text",
-          "text": "2013: Mindfulness-based stress reduction (MBSR) mit Roman von Wartburg, Bern "
+          "text": "2013: Mindfulness-based stress reduction (MBSR) mit Roman von Wartburg, Bern"
         }
       ]
     }
