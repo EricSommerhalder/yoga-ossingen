@@ -62,14 +62,14 @@
       ]
     }
   ],
-  "scheduleTitle": "Zeiten und Kosten",
+  "scheduleTitle": "Zeiten und Preise",
   "scheduleText": [
     {
       "_type": "paragraph",
       "content": [
         {
           "_type": "text",
-          "text": "Die Yogalektionen finden jeweils am Mittwochabend statt, ausser in den Schulferien (von Ossingen)."
+          "text": "Die Yogalektionen finden jeweils am Mittwochabend statt."
         }
       ]
     },
@@ -78,7 +78,7 @@
       "content": [
         {
           "_type": "text",
-          "text": "19.30 Uhr – 19.45 Uhr"
+          "text": "18.30 Uhr – 19.45 Uhr"
         },
         {
           "_type": "hardBreak"
